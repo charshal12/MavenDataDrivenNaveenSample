@@ -1,2 +1,0 @@
-# MavenDataDrivenNaveenSample
-Page object Model
